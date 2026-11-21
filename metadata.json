@@ -1,0 +1,8 @@
+{
+  "name": "Kaam Pakistan",
+  "description": "Find Work. Find Workers. Multilingual skilled services marketplace for Pakistan supporting Urdu, Sindhi, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
